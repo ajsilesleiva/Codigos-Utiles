@@ -1,0 +1,11 @@
+.login-form{
+    position: absolute;
+    top:  500px; 
+    left: 500px;
+    width: 40%;
+    text-align: center;
+}
+.container{
+    background-image: url('../assets/main-fondo.jpg');
+    height: 900px;
+}
